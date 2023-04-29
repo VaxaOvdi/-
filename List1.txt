@@ -1,3 +1,0 @@
-Design:
-.active user in avatars
-.avatar size issue
