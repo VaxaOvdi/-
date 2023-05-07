@@ -15,8 +15,8 @@
 ---
 
 >Hello
->hi
->now
->ok
+> hi
+> now
+> ok
 
 ---
