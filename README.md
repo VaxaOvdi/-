@@ -61,6 +61,12 @@
 
 *У меня есть почта* <ivka030984@gmail.com>  
 
----
+---  
 
-
+**What are the plans for this week:**  
+```  
+learn to spell
+repeat english
+learn new tasks  
+```
+```
