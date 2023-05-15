@@ -72,4 +72,17 @@ learn new tasks
 
 ---  
 
-[Лист Таск 79](https://user-images.githubusercontent.com/1469198/236612750-6656aada-ee5f-45c1-aea9-059b89fb406d.jpg)
+[Лист Таск 79](https://user-images.githubusercontent.com/1469198/236612750-6656aada-ee5f-45c1-aea9-059b89fb406d.jpg)  
+
+---  
+
+Here is a simple footnote[^1].  
+
+A tootnote can also have multiple lines[^2].  
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.  
+this is a second line.  
+
+---  
+
