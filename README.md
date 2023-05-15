@@ -72,4 +72,4 @@ learn new tasks
 
 ---  
 
-
+[Лист Таск 79](https://user-images.githubusercontent.com/1469198/236612750-6656aada-ee5f-45c1-aea9-059b89fb406d.jpg)
